@@ -1,0 +1,12 @@
+defaultPortal: jose.biehl
+portals:
+  - name: jose.biehl
+    portalId: 2113831
+    authType: personalaccesskey
+    auth:
+      tokenInfo:
+        accessToken: >-
+          CLX6rsu-LhIEAAUABBingoEBIPqHxAUo7ukMMhkA7Q1YNSHlZLDFBZRimoXjBp5j4K2owG4gOhgAAARBAAAAAAAAAAAAAAAAgAAAAAAAAARCGQDtDVg1lTISBFbuVZ7yNujADbzwuT6L7XY
+        expiresAt: '2020-08-13T20:03:38.938Z'
+    personalAccessKey: >-
+      CiQ0MjJjMTVlNi0yNzczLTRjZjctYTNlYi1mOWE0NTgzN2MzZjQQp4KBARj6h8QFKhkABeaRgok8A1oEaxNq4Ph72ETu6k4SoibV
